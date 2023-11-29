@@ -1,0 +1,54 @@
+[submodule "4KMX42-H2A"]
+	path = 4KMX42-H2A
+	url = https://github.com/joelwetzel/Hubitat-4KMX42-H2A.git
+[submodule "Miscellaneous-Drivers"]
+	path = Miscellaneous-Drivers
+	url = https://github.com/joelwetzel/Hubitat-Miscellaneous-Drivers.git
+[submodule "Tasmota"]
+	path = Tasmota
+	url = https://github.com/joelwetzel/Hubitat-Tasmota.git
+[submodule "Simple-State-Machines"]
+	path = Simple-State-Machines
+	url = https://github.com/joelwetzel/Hubitat-Simple-State-Machines.git
+[submodule "Reliable-Locks"]
+	path = Reliable-Locks
+	url = https://github.com/joelwetzel/Hubitat-Reliable-Locks.git
+[submodule "Combined-Presence"]
+	path = Combined-Presence
+	url = https://github.com/joelwetzel/Hubitat-Combined-Presence.git
+[submodule "Switch-Bindings"]
+	path = Switch-Bindings
+	url = https://github.com/joelwetzel/Hubitat-Switch-Bindings.git
+[submodule "MQTT-SmartBlinds"]
+	path = MQTT-SmartBlinds
+	url = https://github.com/joelwetzel/Hubitat-MQTT-SmartBlinds.git
+[submodule "Packages"]
+	path = Packages
+	url = https://github.com/joelwetzel/HubitatPackages.git
+[submodule "DoubleTapToTheMax"]
+	path = DoubleTapToTheMax
+	url = https://github.com/joelwetzel/DoubleTapToTheMax.git
+[submodule "IKEA-Tradfri"]
+	path = IKEA-Tradfri
+	url = https://github.com/joelwetzel/Hubitat-IKEA-Tradfri.git
+[submodule "Auto-Shades"]
+	path = Auto-Shades
+	url = https://github.com/joelwetzel/Hubitat-Auto-Shades.git
+[submodule "Cooper-Aspire-Scene-Controller"]
+	path = Cooper-Aspire-Scene-Controller
+	url = https://github.com/joelwetzel/Hubitat-Cooper-Aspire-Scene-Controller.git
+[submodule "iPhone-Presence-Sensor"]
+	path = iPhone-Presence-Sensor
+	url = https://github.com/joelwetzel/Hubitat-iPhone-Presence-Sensor.git
+[submodule "HTTP-Presence-Sensor"]
+	path = HTTP-Presence-Sensor
+	url = https://github.com/joelwetzel/Hubitat-HTTP-Presence-Sensor.git
+[submodule "Lockdown"]
+	path = Lockdown
+	url = https://github.com/joelwetzel/Hubitat-Lockdown.git
+[submodule "Dimmer-Minimums"]
+	path = Dimmer-Minimums
+	url = https://github.com/joelwetzel/Hubitat-Dimmer-Minimums.git
+[submodule "Sleepy-House"]
+	path = Sleepy-House
+	url = https://github.com/joelwetzel/Hubitat-Sleepy-House.git
