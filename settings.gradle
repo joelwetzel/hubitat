@@ -1,0 +1,4 @@
+rootProject.name = 'JoelWetzelHubitatApps'
+include 'DoubleTapToTheMax'
+include 'Dimmer-Minimums'
+include 'Auto-Shades'
